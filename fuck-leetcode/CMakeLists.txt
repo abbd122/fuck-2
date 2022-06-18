@@ -1,0 +1,1 @@
+add_executable(leetcode leetcode.cpp utils.hpp)
